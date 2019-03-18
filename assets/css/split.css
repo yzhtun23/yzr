@@ -102,7 +102,7 @@ html {
   background-color: #061C30; }
 
 body.page-template-page-fullsingle-split {
-  background-color: #061C30;
+  background-color: #ffffff;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 21px;
@@ -128,7 +128,7 @@ body.page-template-page-fullsingle-split {
   .fs-split .split-image {
     width: 50%;
     height: 100vh;
-    background-image: url("../../images/background.jpg");
+    background-image: url("../../images/yzr-background.png");
     background-position: center center;
     background-size: cover; }
     @media (max-width: 800px) {
@@ -167,7 +167,7 @@ body.page-template-page-fullsingle-split {
 .split-intro {
   font-weight: 600;
   font-size: 64px;
-  line-height: 80px;
+  line-height: 55px;
   letter-spacing: -2px; }
   .split-intro h1 {
     font-weight: 400;
@@ -178,7 +178,7 @@ body.page-template-page-fullsingle-split {
     letter-spacing: 0.4px;
     color: #47bec7; }
   .split-intro .tagline {
-    color: #CCCCCC; }
+    color: #232323; }
 
 .split-bio {
   padding: 40px 0 40px 0;
